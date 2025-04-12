@@ -218,7 +218,7 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>➲ <b>စတင်ထုတ်လွှင့်နေပြီ |</blockquote></b>\n\n<b><blockquote>‣ ခေါင်းစဥ် :</b> <a href={0}>{1}</a>\n<b>‣ ကြာချိန် :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>‣ တောင်းဆိုသူ :</b> {3}<b></blockquote>\n<b><blockquote>‣ ϻᴧᴅᴇ ʙʏ : [圓橱𝕎ᴀɴɢ ℓɪ͟ɴ͟ ┃](https://t.me/iwillgoforwardsalone)</b></blockquote>"
+stream_1 : "<b><blockquote>➲ <b>စတင်ထုတ်လွှင့်နေပြီ |</blockquote></b>\n\n<b><blockquote>‣ ခေါင်းစဥ် :</b> <a href={0}>{1}</a>\n<b>‣ ကြာချိန် :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>‣ တောင်းဆိုသူ :</b> {3}<b></blockquote>\n<b>"
 stream_2 : "<b><blockquote>➲ <b>စတင်ထုတ်လွှင့်နေပြီ |</blockquote></b>\n\n<b><blockquote>‣ ထုတ်လွှင့်မှုအမျိုးစား :</b> တိုက်ရိုက်ထုတ်လွှင့်မှု [ᴜʀʟ]\n<b>‣ တောင်းဆိုသူ :</b> {0}</blockquote>" 
 stream_3 : "➲ <b>ပြုလုပ်သူ ‣ [ဝမ်လင်း](https://t.me/iwillgoforwardalone)"
 
