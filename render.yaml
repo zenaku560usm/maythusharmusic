@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: maythusharmusic
+    name: maythusharmusicvv2
     env: python
     region: oregon
     plan: pro
