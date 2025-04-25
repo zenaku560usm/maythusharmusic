@@ -885,7 +885,7 @@ async def save_video_bitrate(chat_id: int, bitrate: str):
 
 
 async def get_aud_bit_name(chat_id: int) -> str:
-    return audio.get(str(chat_id), "STUDIO")
+    return audio.get(str(chat_id), "HIGH")
 
 
 async def get_vid_bit_name(chat_id: int) -> str:
@@ -893,7 +893,7 @@ async def get_vid_bit_name(chat_id: int) -> str:
 
 
 async def get_audio_bitrate(chat_id: int) -> str:
-    mode = audio.get(str(chat_id), "STUDIO")
+    mode = audio.get(str(chat_id), "HIGH")
     return {
         "STUDIO": AudioQuality.STUDIO,
         "HIGH": AudioQuality.HIGH,
