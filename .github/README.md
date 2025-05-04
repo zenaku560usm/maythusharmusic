@@ -48,7 +48,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/zenakumusicvip22/maythusharmusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/zenaku560usm/maythusharmusic/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
@@ -72,7 +72,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/zenakumusicvip22/maythusharmusic && cd maythusharmusic
+   git clone https://github.com/zenaku560usm/maythusharmusic && cd maythusharmusic
    ```
 6. **Install Requirements**
    ```bash
