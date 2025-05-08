@@ -9,9 +9,14 @@ def botplaylist_markup(_):
             InlineKeyboardButton(text=_["S_B_9"], url=SUPPORT_CHAT),
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
+        [
+            InlineKeyboardButton(
+                text="Search", 
+                callback_data="search_sticker"  # New callback data
+            ),
+        ],
     ]
     return buttons
-
 
 def close_markup(_):
     upl = InlineKeyboardMarkup(
