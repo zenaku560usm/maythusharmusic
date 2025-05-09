@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", None)
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
-STICKER_ID = "CAACAgUAAxkBAAEObxloHODEbJMRLG0DgnPYJ7bOUXc5QwACmRkAAg6V6FSBJlu8dUgdCTYE"  # သင့်ရဲ့ sticker ID နဲ့ အစားထိုးပါ
+SEARCH_STICKER_ID = "CAACAgUAAxkBAAEObxloHODEbJMRLG0DgnPYJ7bOUXc5QwACmRkAAg6V6FSBJlu8dUgdCTYE"  # သင့်ရဲ့ sticker ID နဲ့ အစားထိုးပါ
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
