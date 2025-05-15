@@ -12,7 +12,7 @@ from youtubesearchpython.__future__ import VideosSearch
 from maythusharmusic.utils.database import is_on_off
 from maythusharmusic.utils.formatters import time_to_seconds
 
-API_KEY = "1EdAhtfqtegJL0A6I6RjCaxv"
+API_KEY = "Powered--by--Sanatani--tech"
 
 import os
 import glob
@@ -43,7 +43,7 @@ def extract_video_id(link: str) -> str:
 
     raise ValueError("Invalid YouTube link provided.")
 def api_dl(video_id: str) -> str:
-    api_url = f"http://159.89.175.53:8080/download/song/{video_id}?key={API_KEY}"
+    api_url = f"http://5.249.150.146:1470/youtube/download/song/{video_id}?key={API_KEY}"
     file_path = os.path.join("downloads", f"{video_id}.mp3")
 
     # Check if file already exists
