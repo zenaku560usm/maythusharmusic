@@ -20,8 +20,8 @@ import time
 
 
 # ✅ Configurable constants
-API_KEY = "Rf1qda5gyCITj6VbrekzRxmR"
-API_BASE_URL = "http://deadlinetech.site"
+API_KEY = "AIzaSyBgBpDSnGwAmAGfyXV1AE0XBjayNuvwgMg"
+API_BASE_URL = "http://maythusharmusic.site"
 
 MIN_FILE_SIZE = 51200
 
