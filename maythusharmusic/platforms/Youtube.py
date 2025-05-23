@@ -21,7 +21,7 @@ import time
 
 # ✅ Configurable constants
 API_KEY = "Power-By-Maythusharmusic"
-API_BASE_URL = "http://maythusharmusic.site.v1"
+API_BASE_URL = "http://localhost:5173"
 
 MIN_FILE_SIZE = 51200
 
