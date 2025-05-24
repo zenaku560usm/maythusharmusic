@@ -21,7 +21,7 @@ import time
 
 # ✅ Configurable constants
 API_KEY = "Power-By-Maythusharmusic"
-API_BASE_URL = "https://youtu.be/sgZmOpUlcSE"
+API_BASE_URL = "http://deadlinetech.site"
 
 MIN_FILE_SIZE = 51200
 
